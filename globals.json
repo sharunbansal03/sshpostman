@@ -1,0 +1,14 @@
+{
+	"id": "141b495a-22d0-450e-8e45-d411ffb4b740",
+	"values": [
+		{
+			"key": "name",
+			"value": "sharun",
+			"enabled": true
+		}
+	],
+	"name": "My Workspace Globals",
+	"_postman_variable_scope": "globals",
+	"_postman_exported_at": "2021-03-09T08:30:39.929Z",
+	"_postman_exported_using": "Postman/8.0.6"
+}
